@@ -23,7 +23,7 @@ module "vpc" {
 
   tags = {
     Terraform   = "true"
-    Environment = "dev"
+    Environment = "femi"
   }
 }
 
