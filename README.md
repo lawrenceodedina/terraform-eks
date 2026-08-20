@@ -1,0 +1,1 @@
+This creates a simple eks cluster with argo-cd added, for a simple bootstrap. I might add more to it.
